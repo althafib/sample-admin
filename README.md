@@ -1,1 +1,1 @@
-# sample-admin
+# nextui-admin
